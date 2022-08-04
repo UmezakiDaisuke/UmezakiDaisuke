@@ -6,7 +6,7 @@
 
 <!--- Github Stats Card --->
 <a href="https://github.com/UmezakiDaisuke">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=UmezakiDaisuke&show_icons=true&count_private=true&theme=rect" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=UmezakiDaisuke&show_icons=true&count_private=true&theme=react" />
 </a>
 <!--- Github Languages Card --->
 <a href="https://github.com/UmezakiDaisuke">
