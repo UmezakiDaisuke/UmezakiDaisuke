@@ -5,11 +5,11 @@
 - 📫 How to reach me dumezaki.kkctl@gmail.com
 
 <!--- Github Stats Card --->
-<a href="https://github.com/UmezakiDiasuke/github-readme-stats">
+<a href="https://github.com/UmezakiDaisuke">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=UmezakiDaisuke&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
 <!--- Github Languages Card --->
-<a href="https://github.com/UmezakiDiasuke/github-readme-stats">
+<a href="https://github.com/UmezakiDaisuke">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmezakiDaisuke&layout=compact&theme=tokyonight" />
 </a>
 <!---
