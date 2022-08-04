@@ -65,7 +65,7 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=UmezakiDaisuke&show_icons=true&count_private=true&theme=react" />
 </a>
 <a href="https://github.com/UmezakiDaisuke">
-  <img align="left" height="170px" width="400px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmezakiDaisuke&layout=compact&theme=react" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmezakiDaisuke&layout=compact&theme=react" />
 </a>
 <!---
 UmezakiDaisuke/UmezakiDaisuke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
