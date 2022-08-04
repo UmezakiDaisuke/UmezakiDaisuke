@@ -6,11 +6,11 @@
 
 <!--- Github Stats Card --->
 <a href="https://github.com/UmezakiDaisuke">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=UmezakiDaisuke&show_icons=true&count_private=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=UmezakiDaisuke&show_icons=true&count_private=true&theme=rect" />
 </a>
 <!--- Github Languages Card --->
 <a href="https://github.com/UmezakiDaisuke">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmezakiDaisuke&layout=compact&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmezakiDaisuke&layout=compact&theme=react" />
 </a>
 <!---
 UmezakiDaisuke/UmezakiDaisuke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
