@@ -61,13 +61,9 @@
 </p>
 
 # Summary
-<a href="https://github.com/UmezakiDaisuke">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=UmezakiDaisuke&show_icons=true&count_private=true&theme=react" />
-</a>
-<a href="https://github.com/UmezakiDaisuke">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmezakiDaisuke&layout=compact&theme=react" />
-</a>
-<!---
-UmezakiDaisuke/UmezakiDaisuke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-one-self.vercel.app/api?username=UmezakiDaisuke&show_icons=true&theme=dracula&count_private=true&border_color=574666" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-one-self.vercel.app/api/top-langs/?username=UmezakiDaisuke&layout=compact&theme=dracula&border_color=574666" />
+  
+</div>
