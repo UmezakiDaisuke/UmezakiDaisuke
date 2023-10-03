@@ -7,9 +7,9 @@
 - 📫 How to reach me dumezaki.kkctl@gmail.com
 
 ## My Qiita works
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/shiba_it/posts.svg)](http://qiita.com/shiba_it)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/shiba_it/contributions.svg)](http://qiita.com/shiba_it)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/shiba_it/followers.svg)](http://qiita.com/shiba_it)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/shiva_it/posts.svg)](http://qiita.com/shiba_it)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/shiva_it/contributions.svg)](http://qiita.com/shiba_it)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/shiva_it/followers.svg)](http://qiita.com/shiba_it)
 
 ## Languages and Tools:
 <p align="left"> 
